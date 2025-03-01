@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HIMANSHUNEGI2004
 - 👀 I’m interested in coding ,travelling and cricket
-- 🌱 I’m currently learning DSA 
+- 🌱 I’m currently learning Devlopment
 - 💞️ I’m looking to collaborate on my Projects
 - 📫 If you want to contact mail me at himunegi6446@gmail.com
 
